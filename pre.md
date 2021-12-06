@@ -1,15 +1,15 @@
-The HTML <pre> element defines preformatted text.
+The HTML `<pre>` element defines preformatted text.
 
-The text inside a <pre> element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks:
+The text inside a `<pre>` element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks:
 
 Example:
 
-<pre>
+`<pre>`<br>
   My Bonnie lies over the ocean.
 
   My Bonnie lies over the sea.
 
   My Bonnie lies over the ocean.
 
-  Oh, bring back my Bonnie to me.
-</pre>
+  Oh, bring back my Bonnie to me. <br>
+`</pre>`
