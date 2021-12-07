@@ -12,12 +12,13 @@ Newspaper articles
 
 <hr>
 
-**HTML `<figure>` and `<figcaption>` Elements**
-The `<figure>` tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
-
-The `<figcaption>` tag defines a caption for a `<figure>` element. The `<figcaption>` element can be placed as the first or as the last child of a `<figure>` element.
-
-The `<img>` element defines the actual image/illustration.
+**HTML `<figure>` and `<figcaption>` Elements** <br>
+```
+<figure>
+  <img src="pic_trulli.jpg" alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
+```
 
 <hr>
 
