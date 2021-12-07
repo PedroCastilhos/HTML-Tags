@@ -1,5 +1,7 @@
 Use the `<hr>` tag to define thematic changes in the content:
 
+<hr>
+
 ```
 
 <h1>The Main Languages of the Web</h1>
