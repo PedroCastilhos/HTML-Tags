@@ -1,12 +1,12 @@
-Formatting elements were designed to display special types of text:
+**Formatting elements were designed to display special types of text:**
 
-`<b>` - Bold text
-`<strong>` - Important text
-`<i>` - Italic text
-`<em>` - Emphasized text
-`<mark>` - Marked text
-`<small>` - Smaller text
-`<del>` - Deleted text
-`<ins>` - Inserted text
-`<sub>` - Subscript text
-`<sup>` - Superscript text
+1. `<b>` - Bold text
+2. `<strong>` - Important text
+3. `<i>` - Italic text
+4. `<em>` - Emphasized text
+5. `<mark>` - Marked text
+6. `<small>` - Smaller text
+7. `<del>` - Deleted text
+8. `<ins>` - Inserted text
+9. `<sub>` - Subscript text
+10. `<sup>` - Superscript text

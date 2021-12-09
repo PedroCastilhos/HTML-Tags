@@ -1,6 +1,6 @@
-```
-Lista de descrição
+**Description List**
 
+```
 <h2>Glossário</h2>
 <dl>
     <dt>Hypertext</dt>
